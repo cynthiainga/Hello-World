@@ -19,7 +19,7 @@
 
 ### Setup
 
-- To clone my repository run this command git clone https://github.com/cynthiainga/Hello-World.git
+- To clone my repository run this command `git clone https://github.com/cynthiainga/Hello-World.git`
 
 ## Author
 
